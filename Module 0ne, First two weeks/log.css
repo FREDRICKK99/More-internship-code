@@ -1,0 +1,41 @@
+#fredo {
+    border: 25px solid black;
+    padding: 50px;
+    margin: 50px 25px;
+    outline-style: dotted;
+    outline-color: red;
+    color: #1098ad;
+    text-align: center;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: purple;
+}
+
+a:active {
+    color: green;
+}
+
+p {
+    margin: 30px;
+    border: 1px solid black;
+    outline: 1px solid red;
+    outline-offset: 15px;
+    text-decoration: overline;
+    text-shadow: 2px 2px 5px red;
+    font-family: "lucida handwriting" cursive;
+}
+
+table,
+th,
+td {
+    border: 2px solid green;
+}
